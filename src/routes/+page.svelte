@@ -9,7 +9,7 @@ This Start boilerplate using the following stack:
         <li>PWA Support using Vite PWA Plugin.</li>
         <li>Prompt reload when new version detected.</li>
         <li>PicoCss with classless styling</li>
-        <li>Netlify support</li>
+        <li>Netlify deployment support</li>
 
     </ul>
 </article>
