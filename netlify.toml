@@ -9,6 +9,6 @@
     max-age=31536000,
     immutable
     ...
-[build]
-  publish = "dist"
+[build] 
+  publish = "public"
   command = "npm run build"
