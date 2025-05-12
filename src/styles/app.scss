@@ -1,0 +1,9 @@
+@use "./pico-main.scss";
+$slate:var(--pico-color-slate-900);
+:root {
+    --pico-font-family:Poppins,system-ui,"Segoe UI",Roboto,Oxygen;
+    --app-header-background:$slate;
+}
+header {
+    padding: .5rem 0;
+}
